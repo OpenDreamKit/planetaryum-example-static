@@ -1,0 +1,8 @@
+IPython
+graphviz
+ipywidgets
+matplotlib
+numpy
+seaborn
+sklearn
+sympy
