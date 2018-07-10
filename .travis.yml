@@ -1,7 +1,7 @@
 language: python
 python: "3.6"
 install:
-  - pip install git@github.com:opendreamkit/planetaryum
+  - pip install git+https://github.com/OpenDreamKit/planetaryum.git
 script:
   - planetaryum
 deploy:
