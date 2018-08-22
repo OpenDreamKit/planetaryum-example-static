@@ -5,4 +5,4 @@ powered by [Planetaryum](https://github.com/OpenDreamKit/planetaryum).
 
 ## How to contribute a notebook
 
-Make a pull request that adds the notebook to the repository.
+Make a pull request that adds the notebook to this repository.
