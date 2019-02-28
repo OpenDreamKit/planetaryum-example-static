@@ -4,6 +4,7 @@ install:
   - pip install git+https://github.com/OpenDreamKit/planetaryum.git
 script:
   - planetaryum static title="An example gallery" contribute="https://github.com/OpenDreamKit/planetaryum-example-static" binderurl="https://mybinder.org/v2/gh/OpenDreamKit/planetaryum-example-static/master?filepath=%"
+  - touch _site/.nojekyll
 deploy:
   provider: pages
   local-dir: _site
